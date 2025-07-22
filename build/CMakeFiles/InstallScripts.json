@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/batuhan/Desktop/Visualizer/build/cmake_install.cmake",
+		"/home/batuhan/Desktop/Visualizer/build/Libraries/raylib/cmake_install.cmake",
+		"/home/batuhan/Desktop/Visualizer/build/Libraries/raylib/raylib/cmake_install.cmake",
+		"/home/batuhan/Desktop/Visualizer/build/Libraries/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/home/batuhan/Desktop/Visualizer/build/Libraries/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
